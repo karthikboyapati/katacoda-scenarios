@@ -5,3 +5,6 @@ This is your first step.
 This is an _example_ of creating a scenario and running a **command**
 
 `echo 'Hello World'`{{execute}}
+
+'#!/bin/bash
+echo "Hello There!"'{{execute}}
